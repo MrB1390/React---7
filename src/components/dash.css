@@ -1,0 +1,14 @@
+.dash{
+    width: 20% !important;
+    background-color: #040423;
+    color: white;
+    border-radius: 15px;
+}
+.lid{
+    background-color: #040423;
+    color: white;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
